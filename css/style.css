@@ -574,7 +574,7 @@ body {
   }
 }
 .max-width {
-  max-width: 100rem;
+  max-width: 66rem;
 }
 @media (max-width: 480px) {
   .px3 {
